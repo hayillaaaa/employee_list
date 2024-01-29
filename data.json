@@ -1,0 +1,30 @@
+[
+    {
+      "last_name": "Doe",
+      "first_name": "John",
+      "address": "123 Main Street",
+      "city": "Anytown",
+      "country": "USA",
+      "birthdate": "1990-05-15",
+      "department_id": 1
+    },
+    {
+      "last_name": "Smith",
+      "first_name": "Jane",
+      "address": "456 Oak Avenue",
+      "city": "Another City",
+      "country": "Canada",
+      "birthdate": "1985-09-22",
+      "department_id": 2
+    },
+    {
+      "last_name": "Johnson",
+      "first_name": "Bob",
+      "address": "789 Pine Road",
+      "city": "Cityville",
+      "country": "UK",
+      "birthdate": "1982-03-10",
+      "department_id": 1
+    }
+  ]
+  
